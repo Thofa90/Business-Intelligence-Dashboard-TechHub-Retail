@@ -9,6 +9,12 @@ This project presents an executive-level Business Intelligence dashboard built i
 The objective was to integrate multi-source data (Sales, Customers, Products) and generate actionable insights to support 2025 strategic planning.
 
 ⸻
+**Live Dashboard**
+
+👉 View the interactive Tableau Dashboard here:
+
+[TechHub Retail Dashboard – Tableau Public]([https://public.tableau.com/shared/GTK97KX4J?:display_count=n&:origin=viz_share_link])
+⸻
 
 **🎯 Project Aim**
 
