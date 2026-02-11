@@ -14,7 +14,7 @@ The objective was to integrate multi-source data (Sales, Customers, Products) an
 
 👉 View the interactive Tableau Dashboard here:
 
-[TechHub Retail Dashboard – Tableau Public](https://public.tableau.com/shared/GTK97KX4J?:display_count=n&:origin=viz_share_link)
+[TechHub Retail Dashboard – Tableau Public](https://public.tableau.com/views/BusinessIntelligenceDashboardforTechHubRetail_17707664500250/Executivedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **📊 Dashboard Preview**
 
